@@ -27,10 +27,14 @@ Developed proficiency in updating records, handling NULL values, and ensuring da
 Mastered the art of joining tables to unveil relationships within the dataset, crucial for comprehensive analysis.
 📈 Complex Aggregations:
 Tackled intricate aggregations, such as calculating patient heights and identifying multiple admissions for the same diagnosis.
+
+
 Future Steps:
 🎓 Continuous Learning:
 Eager to deepen understanding of SQL, exploring advanced techniques and optimizations for enhanced analysis.
 🚀 Real-world Applications:
 Excited to apply acquired skills in real-world scenarios, contributing to impactful data-driven decisions in healthcare and beyond.
+
+
 Conclusion:
 Thank you for joining me on this enriching journey through the realms of SQL and medical data analysis. As we conclude this presentation, let us carry forth the insights gained, poised to make a positive impact on healthcare outcomes. Together, let us harness the transformative power of data analytics to drive innovation and change in the world of healthcare.
